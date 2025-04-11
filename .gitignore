@@ -1,1 +1,5 @@
 config.json
+grouped_reviews.csv
+tfidf_vectorizer.pkl
+X_vectorized.pkl
+y_labels.pkl
